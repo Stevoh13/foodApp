@@ -1,0 +1,38 @@
+
+[
+    {
+        "id": 1,
+        "name": "SKI Restaurant",
+        "location": "Ajah",
+        "rating": 5,
+        "employees": 10
+    },
+    {
+        "id": 2,
+        "name":" Bungalow Restaurant",
+        "location": "Sangotedo",
+        "rating": 3,
+        "employees": 10
+    },
+    {
+        "id": 3,
+        "name": "RSVP Restaurant",
+        "location":" Osapa London",
+        "rating": 4,
+        "employees": 10
+    },
+    {
+        "id": 4,
+        "name": "Gurunar Restaurant",
+        "location": "jakande",
+        "rating": 4,
+        "employees": 10
+    },
+    {
+        "id": 5,
+        "name": "Vintage Restaurant",
+        "location": "Abraham Adesanya",
+        "rating": 5,
+        "employees": 10
+    }
+]

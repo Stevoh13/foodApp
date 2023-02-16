@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"rice and stew",
+        "description":"boiled rice and tomatoe",
+        "price":1500,
+        " portion":"2"
+    },
+    {
+        " id":2,
+        "name":"vegetable soup",
+        "description":"sliced vegetble, pepper, and stuck fish",
+        "price":1000,
+        "portion":1
+    },
+    {
+        "id":3,
+        "name":"pounded yam",
+        "description":"boiled yam",
+        "price":2500,
+        "portion":2
+    },
+    {
+         "id":4,
+         "name":"small chops",
+        "description":"flour",
+         "price":1000,
+         " portion":5
+    },
+    {
+        "id":5,
+         "name":"yam and egg",
+        "description":"boiled yam and fried egg",
+        "price":1000,
+        "portion":1
+    },
+    {
+        "id":6,
+        "name":"banga soup",
+        "desc":" boiled palm carnel",
+        "price":2000,
+        "portion":2
+    }
+]
